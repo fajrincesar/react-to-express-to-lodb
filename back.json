@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "nama": "imel",
+      "usia": "26",
+      "status": "bandung"
+    },
+    {
+      "nama": "ve",
+      "usia": "23",
+      "status": "jakarta"
+    }
+  ]
+}
